@@ -28,7 +28,7 @@ Before you can use the Docker registry on {% data variables.product.prodname_reg
 {% endif %}
 
 ### Authenticating to {% data variables.product.prodname_registry %}
-
+release
 {% data reusables.package_registry.docker_registry_deprecation_status %}
 
 {% data reusables.package_registry.authenticate-packages %}
